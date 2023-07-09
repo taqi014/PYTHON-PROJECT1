@@ -13,7 +13,7 @@ Sebuah Supermarket "PACMANN" ingin mempermudah pelanggannya untuk melakukan tran
 
 
 #
-| Name | <Type>| Input() |  Output |  Note  |
+| Name |Type| Input |  Output |  Note  |
 | ------ | ------ | ------ | ------ | ------ |
 | Transaction| Class | | |  |
 | add_item()| Method |name_item : string, quantity_item : int, price_item : float| |  |
@@ -21,7 +21,7 @@ Sebuah Supermarket "PACMANN" ingin mempermudah pelanggannya untuk melakukan tran
 | upadate_item()| Method |update_item : string | |  |
 | upadate_qty()| Method |update_qty : int | |  |
 | upadate_price()| Method |update_price : float| |  |
-| delete_item| Method | | delete_item()| ketika menghapus item, jumlah dan harga juga terhapus |
+| delete_item()| Method | | delete_item()| ketika menghapus item, jumlah dan harga juga terhapus |
 | reset_item()| Method | |reset_item |  Menghapus semua item transaksi pembelian|
 | total_price()| Method | | total_price : float| price Rp 200,000 disc 5%, price Rp 300,000 disc 8%, price Rp 500,000 disc 10%|
 
