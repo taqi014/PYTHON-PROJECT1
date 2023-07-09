@@ -12,7 +12,6 @@ Sebuah Supermarket "PACMANN" ingin mempermudah pelanggannya untuk melakukan tran
 ## B. Objectives
 
 
-#
 | Name |Type| Input |  Output |  Note  |
 | ------ | ------ | ------ | ------ | ------ |
 | Transaction| Class | | |  |
@@ -27,33 +26,32 @@ Sebuah Supermarket "PACMANN" ingin mempermudah pelanggannya untuk melakukan tran
 
 
 ## C. Flow Chart
-![Contoh Gambar](![Requirements Project I (1)](https://github.com/taqi014/Images/assets/138283551/46524d09-0274-48af-bcdd-56ed9a22a447))
+![Requirements Project I (1)](https://github.com/taqi014/Images/assets/138283551/46524d09-0274-48af-bcdd-56ed9a22a447)
 
 
 #### Cara Menjalankan Program:
 1. Download semua file/module Python ke dalam satu direktori lokal.
-2. Buka terminal dan sesuaikan lokasi direktori lokal.
-3. Jalankan module python transaction.py di terminal.
-4. Jalankan module python main.py di terminal.
+2. Jalankan module python transaction.py di terminal.
+3. Jalankan module python main.py di terminal.
 
 ## D. Hasil Test Case
 1. Menggunakan menu fungsi add_item(), untuk menambahkan item pada cart
 Input Item yang akan ditambahkan ke keranjang.
 
-![item berhasil ditambahkan](https://unsplash.com/photos/Hv9CS6KZayQ)
+![Test Case1](https://github.com/taqi014/Images/assets/138283551/832e7f5e-f2d8-48d0-8b10-6f412a3c6c67)
 
 2. Menggunakan menu fungsi delete_item(), untuk menghapus suatu item. 
 Contoh: hapus item Pasta gigi.
 
-![item tersebut berhasil dihapus](https://unsplash.com/photos/Hv9CS6KZayQ)
+![Test Case 2](https://github.com/taqi014/Images/assets/138283551/0fa0c7be-9098-4262-9cf6-8564f24d9df7)
 
 3. Menghapus semua item pada cart, menggunakan menu fungsi reset_item().
 
-![Item pada keranjang berhasil direset](https://unsplash.com/photos/Hv9CS6KZayQ)
+![Test Case 3](https://github.com/taqi014/Images/assets/138283551/363644f6-7828-43fa-8d33-7868e933f581)
 
 4. Menjumlahkan harga semua item pada cart, menggunakan menu fungsi total_price() setelah Input beberapa item ke keranjang.
 
-![Menampilkan total harga](https://unsplash.com/photos/Hv9CS6KZayQ)
+![Test Case 4](https://github.com/taqi014/Images/assets/138283551/c6898092-14ea-4dbe-869d-994216ece711)
 
 
 ## E. Conclusion
