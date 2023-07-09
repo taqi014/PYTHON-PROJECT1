@@ -13,7 +13,6 @@ Sebuah Supermarket "PACMANN" ingin mempermudah pelanggannya untuk melakukan tran
 
 
 #
-
 | Name | <Type>| Input() |  Output |  Note  |
 | ------ | ------ | ------ | ------ | ------ |
 | Transaction| Class | | |  |
@@ -46,7 +45,7 @@ Input Item yang akan ditambahkan ke keranjang.
 2. Menggunakan menu fungsi delete_item(), untuk menghapus suatu item. 
 Contoh: hapus item Pasta gigi.
 
-![item berhasil ditambahkan](https://unsplash.com/photos/Hv9CS6KZayQ)
+![item tersebut berhasil dihapus](https://unsplash.com/photos/Hv9CS6KZayQ)
 
 3. Menghapus semua item pada cart, menggunakan menu fungsi reset_item().
 
