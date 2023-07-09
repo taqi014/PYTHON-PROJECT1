@@ -27,7 +27,7 @@ Sebuah Supermarket "PACMANN" ingin mempermudah pelanggannya untuk melakukan tran
 
 
 ## C. Flow Chart
-![Contoh Gambar](https://unsplash.com/photos/Hv9CS6KZayQ)
+![Contoh Gambar](![Requirements Project I (1)](https://github.com/taqi014/Images/assets/138283551/46524d09-0274-48af-bcdd-56ed9a22a447))
 
 
 #### Cara Menjalankan Program:
