@@ -26,7 +26,7 @@ Sebuah Supermarket "PACMANN" ingin mempermudah pelanggannya untuk melakukan tran
 
 
 ## C. Flow Chart
-![Requirements Project I (1)](https://github.com/taqi014/Images/assets/138283551/46524d09-0274-48af-bcdd-56ed9a22a447)
+![Objectives](https://github.com/taqi014/PYTHON-PROJECT1/assets/138283551/67bd93cb-f4e9-47fc-accc-542e28337656)
 
 
 #### Cara Menjalankan Program:
@@ -38,21 +38,21 @@ Sebuah Supermarket "PACMANN" ingin mempermudah pelanggannya untuk melakukan tran
 1. Menggunakan menu fungsi add_item(), untuk menambahkan item pada cart
 Input Item yang akan ditambahkan ke keranjang.
 
-![Test Case1](https://github.com/taqi014/Images/assets/138283551/832e7f5e-f2d8-48d0-8b10-6f412a3c6c67)
+![Test Case1](https://github.com/taqi014/PYTHON-PROJECT1/assets/138283551/d2fb2909-b8e8-4caa-97b2-6421b759840a)
+
 
 2. Menggunakan menu fungsi delete_item(), untuk menghapus suatu item. 
 Contoh: hapus item Pasta gigi.
 
-![Test Case 2](https://github.com/taqi014/Images/assets/138283551/0fa0c7be-9098-4262-9cf6-8564f24d9df7)
+![Test Case 2](https://github.com/taqi014/PYTHON-PROJECT1/assets/138283551/74ed27b5-f91c-4ab2-b076-145f8888e2e5)
 
 3. Menghapus semua item pada cart, menggunakan menu fungsi reset_item().
 
-![Test Case 3](https://github.com/taqi014/Images/assets/138283551/363644f6-7828-43fa-8d33-7868e933f581)
+![Test Case 3](https://github.com/taqi014/PYTHON-PROJECT1/assets/138283551/1a6c47cb-1fa3-4c43-8507-cc1a3589f8bb)
 
 4. Menjumlahkan harga semua item pada cart, menggunakan menu fungsi total_price() setelah Input beberapa item ke keranjang.
 
-![Test Case 4](https://github.com/taqi014/Images/assets/138283551/c6898092-14ea-4dbe-869d-994216ece711)
-
+![Test Case 4](https://github.com/taqi014/PYTHON-PROJECT1/assets/138283551/f0670899-3b6b-42c3-b1f4-0614b8545eca)
 
 ## E. Conclusion
 1. Mengembangkan program salah satunya dengan cara menambahkan database untuk daftar barang(item) beserta harga.
