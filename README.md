@@ -26,8 +26,7 @@ Sebuah Supermarket "PACMANN" ingin mempermudah pelanggannya untuk melakukan tran
 
 
 ## C. Flow Chart
-![Objectives](https://github.com/taqi014/PYTHON-PROJECT1/assets/138283551/67bd93cb-f4e9-47fc-accc-542e28337656)
-
+![Requirements Project I (1)](https://github.com/taqi014/PYTHON-PROJECT1/assets/138283551/1175c5f4-424c-4960-9212-6a572006aac1)
 
 #### Cara Menjalankan Program:
 1. Download semua file/module Python ke dalam satu direktori lokal.
